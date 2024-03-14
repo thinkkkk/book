@@ -1,4 +1,7 @@
+# think的书籍清单
+
 ## GO
+
 - Go语言实战
 
 - go web编程
@@ -22,6 +25,8 @@
 
 - The Linux Command Line, A Complete Introduction 2nd (2013)
 - The Linux Command Line 中文版-10150838
+- 《鸟哥的Linux私房菜-基础篇》第四版
+- 鸟哥的Linux私房菜-服务器架设篇(第三版)高清晰
 
 ## mysql
 
@@ -40,11 +45,17 @@
 
 ## python
 
-- 《Python编程：从入门到实践》_中文版
+- Python编程：从入门到实_中文版
+- Python.Crash.Course.3rd.Edition.Eric.Matthes.No.Starch.Press.9781718502703.EBooksWorld.ir
 
 ## redis
 
 - 054_Redis设计与实现第二版
+
+## git
+
+- pro_git_en
+- pro_git_zh
 
 ## git仓库
 
